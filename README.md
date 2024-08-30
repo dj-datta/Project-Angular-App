@@ -18,7 +18,8 @@
 
 ###  ${\color{blue} \textbf{Create } \textbf{RDS}  \ \textbf{Instance}}$
 
-![db](https://github.com/abhipraydhoble/Project-Angular-App/assets/122669982/8d992b33-4a08-4a68-95ab-1021c1111791)
+![Screenshot (651)](https://github.com/user-attachments/assets/fbb90309-f124-4287-879e-61135532a6b6)
+
 
 
 ```bash
